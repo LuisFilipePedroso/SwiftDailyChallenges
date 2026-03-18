@@ -11,7 +11,7 @@ import SwiftUI
 struct DailyChangeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MusicPlayer()
         }
     }
 }
